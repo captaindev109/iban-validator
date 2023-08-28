@@ -3,7 +3,7 @@
 ### Installation
 - Clone the repository from GitHub:
     ```
-    git clone https://github.com/your-username/montenegro-iban-validation-api.git
+    git clone https://github.com/captaindev109/iban-validator.git
     ```
 - Install the required dependencies:
     ```
